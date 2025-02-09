@@ -9,3 +9,5 @@ git log / git log --oneline dùng q để thoát
 git checkout địa chỉ để chuyển HEAD về commit đó
 
 git merge: đứng ở nhánh muốn lưu (main), git merge nhanh-1 (đem nhánh 1 về main)
+
+git checkout tenNhanhTren remote chua co tren local se tu keo ve
